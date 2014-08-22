@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IMCalc</string>
+    <string name="title">Calculadora de Índice de Masa Corporal (IMC)</string>
+    <string name="height">Estatura (cm)</string>
+    <string name="weight">Peso (Kg)</string>
+    <string name="calculate">Calcular IMC</string>
+    <string name="reset">Reiniciar</string>
+    <string name="invalid_param_height">Indique su estatura en centímetros (cm).</string>
+    <string name="invalid_param_value_height">La estatura debe ser mayor que cero (0).</string>
+    <string name="invalid_param_weight">Indique su peso en Kilogramos (Kg).</string>
+    <string name="invalid_param_value_weight">El peso debe ser mayor que cero (0).</string>
+    <string name="invalid_params">Indique su peso (Kg) y su estatura (cm).</string>
+    <string name="invalid_params_values">La estatura y el peso deben ser mayores que cero (0).</string>
+    <string name="result">Su IMC es: </string>
+    <string name="result_thinness3">Delgadez III:\nRiesgo de postración, adinamia, enfermedades degenerativas y peligro de muerte.</string>
+    <string name="result_thinness2">Delgadez II:\nRiesgo de anorexia, bulimia, osteoporosis y autoconsumo de masa muscular.</string>
+    <string name="result_thinness1">Delgadez I:\nRiesgo de trastornos digestivos, debilidad, fatiga crónica, estrés, ansiedad y difusión hormonal.</string>
+    <string name="result_normal">Normal:\nBuen nivel de energía, vitalidad y buena condición física.</string>
+    <string name="result_overweight">Sobrepeso:\nRiesgo de Fatiga, enfermedades digestivas, problemas cardíacos, mala circulación en piernas y várices.</string>
+    <string name="result_obesity1">Obesidad I:\nRiesgo de diabetes, hipertensión, enfermedades cardiovasculares, problemas articulares y cálculos biliares.</string>
+    <string name="result_obesity2">Obesidad II:\nRiesgo de diabetes, cáncer, angina de pecho, infartos, tromboflebitis, arterioesclerosis, embolia, alteraciones en la menstruación.</string>
+    <string name="result_obesity3">Obesidad III:\nRiesgo de falta de aire, somnolencia, trombosis pulmonar, úlceras varicosas, cáncer de próstata, reflujo esofágico.</string>
+    <string name="dev_name">Desarrollado por: Miguel.Simoni</string>
+    <string name="dev_email">e-mail: miguel.simoni@gmail.com</string>
+    <string name="dev_twitter">twitter: @xmsim</string>
+    <string name="about">Acerca de...</string>
+</resources>
